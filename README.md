@@ -1,3 +1,3 @@
-# aircra-ng
+# aircrack-ng
 cybersecurity
 aircrack-ng file-name -w text-file
